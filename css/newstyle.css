@@ -2,7 +2,10 @@ body {
 	background-color: ghostwhite;
 	font-family: Arial, sans-serif;
 	color: dimgray;
-    
+    border: 3px solid gray;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
 }
 
 h1, h2, h3 {
@@ -24,4 +27,8 @@ img {
 	height: auto;
 	display: block;
 	margin: 0 auto;
+}
+
+bull {
+    font-weight: bold
 }
